@@ -1,2 +1,1 @@
-# winxp
-WinXP wallpapers
+Windows XP wallpapers.
